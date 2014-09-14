@@ -1,0 +1,5 @@
+*~
+*.org
+*.pkl
+*.pyc
+.DS_Store
